@@ -1,0 +1,91 @@
+Turbine,Wind [m/s],Power P [kW],Height (m)
+Enercon E-53,1,0,75
+Enercon E-53,2,2,75
+Enercon E-53,3,14,75
+Enercon E-53,4,38,75
+Enercon E-53,5,77,75
+Enercon E-53,6,141,75
+Enercon E-53,7,228,75
+Enercon E-53,8,336,75
+Enercon E-53,9,480,75
+Enercon E-53,10,645,75
+Enercon E-53,11,744,75
+Enercon E-53,12,780,75
+Enercon E-53,13,810,75
+Enercon E-53,14,810,75
+Enercon E-53,15,810,75
+Enercon E-53,16,810,75
+Enercon E-53,17,810,75
+Enercon E-53,18,810,75
+Enercon E-53,19,810,75
+Enercon E-53,20,810,75
+Enercon E-53,21,810,75
+Enercon E-53,22,810,75
+Enercon E-53,23,810,75
+Enercon E-53,24,810,75
+Enercon E-53,25,810,75
+Enercon E-53,26,0,75
+Enercon E-53,27,0,75
+Enercon E-53,28,0,75
+Enercon E-53,29,0,75
+Enercon E-53,30,0,75
+Gamesa G97 (2000kW),1,0,80
+Gamesa G97 (2000kW),2,0,80
+Gamesa G97 (2000kW),3,14,80
+Gamesa G97 (2000kW),4,94,80
+Gamesa G97 (2000kW),5,236,80
+Gamesa G97 (2000kW),6,438,80
+Gamesa G97 (2000kW),7,714,80
+Gamesa G97 (2000kW),8,1084,80
+Gamesa G97 (2000kW),9,1507,80
+Gamesa G97 (2000kW),10,1817,80
+Gamesa G97 (2000kW),11,1951,80
+Gamesa G97 (2000kW),12,1990,80
+Gamesa G97 (2000kW),13,1998,80
+Gamesa G97 (2000kW),14,2000,80
+Gamesa G97 (2000kW),15,2000,80
+Gamesa G97 (2000kW),16,2000,80
+Gamesa G97 (2000kW),17,2000,80
+Gamesa G97 (2000kW),18,2000,80
+Gamesa G97 (2000kW),19,2000,80
+Gamesa G97 (2000kW),20,2000,80
+Gamesa G97 (2000kW),21,2000,80
+Gamesa G97 (2000kW),22,1906,80
+Gamesa G97 (2000kW),23,1681,80
+Gamesa G97 (2000kW),24,1455,80
+Gamesa G97 (2000kW),25,1230,80
+Gamesa G97 (2000kW),26,0,80
+Gamesa G97 (2000kW),27,0,80
+Gamesa G97 (2000kW),28,0,80
+Gamesa G97 (2000kW),29,0,80
+Gamesa G97 (2000kW),30,0,80
+Vestas V-117 (4.2MW),1,0,90
+Vestas V-117 (4.2MW),2,0,90
+Vestas V-117 (4.2MW),3,12,90
+Vestas V-117 (4.2MW),4,140,90
+Vestas V-117 (4.2MW),5,336,90
+Vestas V-117 (4.2MW),6,610,90
+Vestas V-117 (4.2MW),7,996,90
+Vestas V-117 (4.2MW),8,1507,90
+Vestas V-117 (4.2MW),9,2155,90
+Vestas V-117 (4.2MW),10,2892,90
+Vestas V-117 (4.2MW),11,3356,90
+Vestas V-117 (4.2MW),12,4008,90
+Vestas V-117 (4.2MW),13,4178,90
+Vestas V-117 (4.2MW),14,4196,90
+Vestas V-117 (4.2MW),15,4200,90
+Vestas V-117 (4.2MW),16,4200,90
+Vestas V-117 (4.2MW),17,4200,90
+Vestas V-117 (4.2MW),18,4200,90
+Vestas V-117 (4.2MW),19,4200,90
+Vestas V-117 (4.2MW),20,4200,90
+Vestas V-117 (4.2MW),21,4200,90
+Vestas V-117 (4.2MW),22,4200,90
+Vestas V-117 (4.2MW),23,4200,90
+Vestas V-117 (4.2MW),24,4200,90
+Vestas V-117 (4.2MW),25,4200,90
+Vestas V-117 (4.2MW),26,4165,90
+Vestas V-117 (4.2MW),27,4039,90
+Vestas V-117 (4.2MW),28,3834,90
+Vestas V-117 (4.2MW),29,3586,90
+Vestas V-117 (4.2MW),30,3212,90
