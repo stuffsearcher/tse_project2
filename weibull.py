@@ -8,21 +8,11 @@ import reliability
 
 data_df = preparation.prepare_main_data(data_name="data")
 
-open_flat_roughness = 0.03
-current_height = 20
 
 # Change turbine_height to calculate Weibull at specific height
 turbine_height = 20
 
-
-def log_law(vel: np.float64):
-    return vel * (
-        np.log(current_height / open_flat_roughness)
-        / np.log(turbine_height / open_flat_roughness)
-    )
-
-
-data_df["speed"] = data_df["speed"].apply(log_law)
+data_df["speed"] = data_df["speed"].apply(preparation.log_law, args=(turbine_height,))
 
 data_df.dropna(inplace=True)
 

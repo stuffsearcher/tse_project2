@@ -25,6 +25,16 @@ def prepare_turbine_data(data_name: str):
     return turbine_data
 
 
+def log_law(vel: np.float64, turbine_height: float):
+    data_height = 20
+    open_flat_roughness = 0.03
+
+    return vel * (
+        np.log(data_height / open_flat_roughness)
+        / np.log(turbine_height / open_flat_roughness)
+    )
+
+
 if __name__ == "__main__":
     data = prepare_main_data(input("Enter main data document name: "))
 
