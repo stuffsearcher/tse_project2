@@ -2,7 +2,6 @@ import preparation
 
 from scipy.stats import weibull_min
 import matplotlib.pyplot as plt
-import matplotlib.ticker as mtick
 import numpy as np
 import reliability
 
@@ -67,22 +66,3 @@ plt.title(f"Weibull Distribution for Wind Speed at {turbine_height} meters")
 plt.xticks(rotation=90)
 plt.legend()
 plt.show()
-
-# plt.plot(x, pdf, "r--", label="Fitted Weibull PDF")
-
-# plt.xticks(rotation=90)
-# plt.hist(
-#     data_df["speed"],
-#     bins=speed_bins,
-#     density=True,
-#     alpha=0.6,
-#     color="skyblue",
-#     label="Distribuion",
-#     edgecolor="black",
-# )
-# plt.legend()
-# plt.ylabel("Frequency [%]")
-# plt.xlabel("Wind Speed [m/s]")
-# plt.title("Weibull Distribution for Wind Speed at 20 meters")
-# plt.gca().yaxis.set_major_formatter(mtick.PercentFormatter(xmax=1))
-# plt.show()
