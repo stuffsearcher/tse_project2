@@ -30,8 +30,8 @@ def log_law(vel: np.float64, turbine_height: float):
     open_flat_roughness = 0.03
 
     return vel * (
-        np.log(data_height / open_flat_roughness)
-        / np.log(turbine_height / open_flat_roughness)
+        np.log(turbine_height / open_flat_roughness)
+        / np.log(data_height / open_flat_roughness)
     )
 
 
