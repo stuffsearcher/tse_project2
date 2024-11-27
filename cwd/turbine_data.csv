@@ -1,4 +1,4 @@
-Turbine,Wind [m/s],Power P [kW],Height (m)
+Turbine,Wind [m/s],Power P [kW],Height [m]
 Enercon E-53,1,0,75
 Enercon E-53,2,2,75
 Enercon E-53,3,14,75
