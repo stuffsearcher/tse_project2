@@ -46,7 +46,7 @@ speed_bins = [x for x in range(max_speed + 1)]
 
 bar_x_axis = [str(x) for x in bar_data.index]
 
-shape, loc, scale = weibull_min.fit(data_df["speed"], loc=-1)
+shape, loc, scale = weibull_min.fit(data_df["speed"])
 
 x = np.linspace(data_df["speed"].min(), data_df["speed"].max(), len(data_df["speed"]))
 pdf = weibull_min.pdf(x, beta, loc, alpha)
